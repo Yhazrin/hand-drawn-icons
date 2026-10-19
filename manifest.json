@@ -1,0 +1,63 @@
+{
+  "name": "@yhazrin/hand-drawn-icons",
+  "version": "0.1.0",
+  "license": "MIT",
+  "icons": [
+    {
+      "name": "orbit",
+      "label": "飞碟",
+      "file": "icons/orbit.svg",
+      "viewBox": "0 0 80 80",
+      "sha256": "2607575bf4a3b505d1e75cff5c84516b37d71c51d0fe3598295a5133f1506d74"
+    },
+    {
+      "name": "mail",
+      "label": "信封",
+      "file": "icons/mail.svg",
+      "viewBox": "0 0 80 80",
+      "sha256": "9b36022875cb062f0c71e64b61e5b651247995275067ed7299869cca44a4ee9f"
+    },
+    {
+      "name": "orb",
+      "label": "轨道球",
+      "file": "icons/orb.svg",
+      "viewBox": "0 0 80 80",
+      "sha256": "2f0741077c95b69471163f45ac18d5d27713d6e08c2e46f53ea5b742bf551d9b"
+    },
+    {
+      "name": "eye",
+      "label": "眼睛",
+      "file": "icons/eye.svg",
+      "viewBox": "0 0 80 80",
+      "sha256": "7e678c91a7798d150ff113d9d59a54d22ccaf738240fbfd1d183687d94954c17"
+    },
+    {
+      "name": "folder",
+      "label": "文件夹",
+      "file": "icons/folder.svg",
+      "viewBox": "0 0 80 80",
+      "sha256": "1fb3722a48eeac8ea8ab3fc33918b552451c1ea8374cd204c48f936b407d6042"
+    },
+    {
+      "name": "printer",
+      "label": "打印机",
+      "file": "icons/printer.svg",
+      "viewBox": "0 0 80 80",
+      "sha256": "4f78dad61bd56201d0d1c0e07d1cc3a424fb69369c3f93800ec774b579992e33"
+    },
+    {
+      "name": "gear",
+      "label": "设置",
+      "file": "icons/gear.svg",
+      "viewBox": "0 0 80 80",
+      "sha256": "b77301c3e153b2ec59c52980567874a56bb1782980b6eccd2ef4eccc7b31537f"
+    },
+    {
+      "name": "basket",
+      "label": "收纳筐",
+      "file": "icons/basket.svg",
+      "viewBox": "0 0 80 80",
+      "sha256": "7692b3b5625c8c7a09d07036be0245e00d2d2dafc8359a4ccbc7f2cebe9fe84c"
+    }
+  ]
+}
